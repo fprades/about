@@ -1,5 +1,3 @@
-#### Manual page
-
     $ about fprades
 
 Hello world! I'm a software developer engineer. As you might have guess from the first two words in this paragraph
