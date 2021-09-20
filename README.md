@@ -1,4 +1,3 @@
     $ about fprades
-    
-    See http://fprades.github.io
-    
+
+See http://fprades.github.io    
