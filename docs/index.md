@@ -8,7 +8,7 @@ Over the years - on top of flexing my coding skills - I had the opportunity to *
 
 **Experience**: Distributed computing, design, architecture, build systems, tests, migrations, finance.
 
-**Tools**: git, cmake, make, nunit, pytest, jenkins, anaconda, ...
+**Tools**: git, cmake, nunit, pytest, jenkins, anaconda, ...
 
 **Supported OSes**: Linux, Windows, Solaris _[deprecated]_
 
