@@ -14,5 +14,5 @@ Over the years - on top of flexing my coding skills - I had the opportunity to l
 
 **Interests**: Developing cutting edge tools for humans with humans.
 
-**See also**: [fprades-io(1)](https://fprades.github.io) [fprades-github(2)](https://github.com/fprades) [fprades-linkedin(5)](https://linkedin.com/fprades)
+**See also**: [fprades-io(1)](https://fprades.github.io) [fprades-github(2)](https://github.com/fprades) [fprades-linkedin(5)](https://linkedin.com/in/fprades)
 
